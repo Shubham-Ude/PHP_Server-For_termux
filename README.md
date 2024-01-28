@@ -2,7 +2,8 @@
 # PHP Server Management Tool
 
 This tool allows you to easily start and stop a PHP server on your Android device using Termux.
-
+## Tool
+  ![Tool Image](Images/php_screen_1.jpg)
 ## Instructions
 
 ### Install PHP and Python
