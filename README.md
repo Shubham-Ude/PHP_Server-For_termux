@@ -13,8 +13,8 @@ This tool allows you to easily start and stop a PHP server on your Android devic
 2. Run the following commands to install PHP and Python:
 
    ```bash
-   pkg install php
-   pkg install python
+   apt install php
+   apt install python
 
 ## Execute the Tool
 
