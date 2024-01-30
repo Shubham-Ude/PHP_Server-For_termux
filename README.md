@@ -13,8 +13,8 @@ This tool allows you to easily start and stop a PHP server on your Android devic
 2. Run the following commands to install PHP and Python:
 
    ```bash
-   apt install php
-   apt install python
+   pkg install php
+   pkg install python
 
 ## Execute the Tool
 
@@ -29,7 +29,7 @@ This tool allows you to easily start and stop a PHP server on your Android devic
 3. Run the following command to execute the tool:
 
    ```bash
-   python php_server_tool.py
+   python php_server.py
 4. Create and save your .php file in storage/download/server/php
 5. You can use external editor like Code Editor 
 
